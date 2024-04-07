@@ -12,6 +12,22 @@
 
 *All scripts created using pyhton (.py) extention*
 
+
+## Overview
+
+This repository contains some homework solutions from module 6 (Streaming) in DTC Data Engineering Zoomcamp 2024.
+
+Instead of Kafka, here will use [Red Panda](https://redpanda.com/), which is a drop-in replacement for Kafka.
+
+Ensure we have the following set up :
+- Docker (module 1)
+- PySpark (module 5)
+
+For this homework we will be using the files from Module 5 homework i.e. :
+
+Green 2019-10 data from [here](https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-10.csv.gz)
+
+
 ## Redpanda Demo Project Architecture
 
 ![image](https://github.com/garjita63/de-zoomcamp-2024/assets/77673886/4e738fff-48b2-43ad-bc3a-5daf084c0e5e)
