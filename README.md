@@ -309,5 +309,5 @@ pyhton kafka-consumer-step.py
 - Check Session Termiinal 2 (Producer Session - sending data)
 - Check Session Termiinal 3 (Consumer Session - receiving data)
 
-We can Ctril-C to stop process.
+We can press Ctril-C to stop process.
 
