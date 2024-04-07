@@ -309,5 +309,7 @@ pyhton kafka-consumer-step.py
 - Check Session Termiinal 2 (Producer Session - sending data)
 - Check Session Termiinal 3 (Consumer Session - receiving data)
 
+Output screen would be like below file **vmt4o21e.mp4**
+
 We can press Ctril-C to stop process.
 
