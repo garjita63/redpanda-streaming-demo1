@@ -6,12 +6,6 @@
 - [Session Terminal 3 (Kafka Consumer)](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#session-terminal-3-kafka-consumer)
 - [Check (Review) Output](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#check-review-output)
 
-*Note:* 
-
-*Don't run these all steps on Jupyter Notebook. Otherwise the ipynb script file will grow very quickly when running the producer and consumer steps. Please run on terminal.*
-
-*All scripts created using pyhton (.py) extention*
-
 
 ## Overview
 
@@ -26,6 +20,12 @@ Ensure we have the following set up :
 For this homework we will be using the files from Module 5 homework i.e. :
 
 Green 2019-10 data from [here](https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-10.csv.gz)
+
+*Note:* 
+
+*Don't run these all steps on Jupyter Notebook. Otherwise the ipynb script file will grow very quickly when running the producer and consumer steps. Please run on terminal.*
+
+*All scripts created using pyhton (.py) extention*
 
 
 ## Redpanda Demo Project Architecture
