@@ -4,7 +4,7 @@
 - [Session Terminal 1 (Preparations)](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#session-terminal-1-preparations)
 - [Session Terminal 2 (Kafka Producer)](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#session-terminal-2-kafka-producer)
 - [Session Terminal 3 (Kafka Consumer)](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#session-terminal-3-kafka-consumer)
-- [Check (Review) Output](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#check-monitor-output)
+- [Check (Monitor) Output](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/README.md#check-monitor-output)
 
 
 ## Overview
