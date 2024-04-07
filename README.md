@@ -309,7 +309,7 @@ pyhton kafka-consumer-step.py
 - Check Session Termiinal 2 (Producer Session - sending data)
 - Check Session Termiinal 3 (Consumer Session - receiving data)
 
-Screen output would be like this file below:
+Screen output would be like files below:
 
 [sending data vs consumer](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/sending-data-vs-consumer.mp4)
 
