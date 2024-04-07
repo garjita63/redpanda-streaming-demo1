@@ -309,7 +309,10 @@ pyhton kafka-consumer-step.py
 - Check Session Termiinal 2 (Producer Session - sending data)
 - Check Session Termiinal 3 (Consumer Session - receiving data)
 
-Screen output would be like this file [vmt4o21e.mp4](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/vmt4o21e.mp4)
+Screen output would be like this file below:
+
+[sending data vs consumer](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/sending-data-vs-consumer.mp4)
+[topic vs consumer]
 
 We can press Ctril-C to stop process.
 
