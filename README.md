@@ -303,9 +303,11 @@ pyhton kafka-consumer-step.py
 - The screem will show data sent from producer --> broker --> consumer.
 
 
-## Check (Review) Output
+## Check (Monitor) Output
 
 - Check Session Termiinal 1 (Preparation Session - green-trips topic)
 - Check Session Termiinal 2 (Producer Session - sending data)
 - Check Session Termiinal 3 (Consumer Session - receiving data)
+
+We can Ctril-C to stop process.
 
