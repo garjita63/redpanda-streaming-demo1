@@ -28,9 +28,10 @@ Green 2019-10 data from [here](https://github.com/DataTalksClub/nyc-tlc-data/rel
 *All scripts created using pyhton (.py) extention*
 
 
-## Redpanda Demo Project Architecture
+## Redpanda Streaming Demo Architecture
 
-![image](https://github.com/garjita63/de-zoomcamp-2024/assets/77673886/4e738fff-48b2-43ad-bc3a-5daf084c0e5e)
+![image](https://github.com/garjita63/redpanda-streaming-demo1/assets/77673886/878c6013-ffe4-4a34-b387-dba995659ca6)
+
 
 
 ## Session Terminal 1 (Preparations)
