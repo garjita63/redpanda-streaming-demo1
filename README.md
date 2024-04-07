@@ -312,7 +312,7 @@ pyhton kafka-consumer-step.py
 Screen output would be like this file below:
 
 [sending data vs consumer](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/sending-data-vs-consumer.mp4)
-[topic vs consumer]
+[topic vs consumer](https://github.com/garjita63/redpanda-streaming-demo1/blob/main/topic-vs-consumer.mp4)
 
 We can press Ctril-C to stop process.
 
